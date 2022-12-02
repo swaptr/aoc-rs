@@ -1,2 +1,1 @@
-# aoc-rs
-Advent of Code 2022
+# advent-of-code-rs
